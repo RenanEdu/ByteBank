@@ -1,0 +1,14 @@
+C:\Users\Usuario\ByteBank\bin\Debug\net9.0\ByteBank.exe
+C:\Users\Usuario\ByteBank\bin\Debug\net9.0\ByteBank.deps.json
+C:\Users\Usuario\ByteBank\bin\Debug\net9.0\ByteBank.runtimeconfig.json
+C:\Users\Usuario\ByteBank\bin\Debug\net9.0\ByteBank.dll
+C:\Users\Usuario\ByteBank\bin\Debug\net9.0\ByteBank.pdb
+C:\Users\Usuario\ByteBank\obj\Debug\net9.0\ByteBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\ByteBank\obj\Debug\net9.0\ByteBank.AssemblyInfoInputs.cache
+C:\Users\Usuario\ByteBank\obj\Debug\net9.0\ByteBank.AssemblyInfo.cs
+C:\Users\Usuario\ByteBank\obj\Debug\net9.0\ByteBank.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\ByteBank\obj\Debug\net9.0\ByteBank.dll
+C:\Users\Usuario\ByteBank\obj\Debug\net9.0\refint\ByteBank.dll
+C:\Users\Usuario\ByteBank\obj\Debug\net9.0\ByteBank.pdb
+C:\Users\Usuario\ByteBank\obj\Debug\net9.0\ByteBank.genruntimeconfig.cache
+C:\Users\Usuario\ByteBank\obj\Debug\net9.0\ref\ByteBank.dll
